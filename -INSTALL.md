@@ -29,8 +29,9 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 ## Post-Installation Recommendations
 
-**ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
-- **PreferenceLoader** (1.0.16)
+**ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
+- **PreferenceLoader** (2.2.6-15)
+- **XinaBlackList** (0.0.2-10+debug)
 
 **UPDATE ALL OF THE PACKAGES IN THE PACKAGES LIST:** <br />
 Packages → Upgrade All → Queued: ## Packages → Confirm  → Respring/Reboot Device Button
